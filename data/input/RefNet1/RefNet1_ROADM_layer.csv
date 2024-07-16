@@ -1,0 +1,17 @@
+﻿Id;ROADM_Id;ROADM_Name;X_Pos;Y_Pos;Degrees;Type
+1;4;4;4;17;2;Backbone
+2;3;3;3;10;3;Backbone
+3;5;5;5;5;2;Backbone
+4;7;7;11;4;3;Backbone
+5;8;8;14;11;4;Backbone
+6;10;10;20;9;3;Backbone
+7;9;9;18;3;3;Backbone
+8;13;13;27;2;4;Backbone
+9;14;14;28;10;3;Backbone
+10;21;21;37;4;2;Backbone
+11;23;23;40;8;3;Backbone
+12;25;25;43;10;3;Backbone
+13;18;18;34;10;3;Backbone
+14;26;26;43;1;2;Backbone
+15;30;30;49;16;2;Backbone
+808;;;;;;
